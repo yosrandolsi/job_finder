@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+*.egg-info/
+sample_data/*.pdf
+.DS_Store
